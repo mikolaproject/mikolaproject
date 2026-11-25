@@ -11,7 +11,7 @@ Multi-disciplinary engineer bridging **Enterprise Project Management (SAP PPM / 
 
 ### Core Domains
 
-- 🏢 **Enterprise Systems & Project Architecture:** Extensive experience with **SAP PPM** (Portfolio & Project Management) and **SAP PS** (Project System) — structuring complex project lifecycles, resource planning, budgeting, and enterprise integrations.
+- 🏢 **Enterprise Systems & ERP Architecture:** Extensive experience with **SAP PPM** (Portfolio & Project Management), **SAP PS** (Project System), **IFS Applications**, and **1C:Enterprise** — structuring complex project lifecycles, resource planning, budgeting, and cross-system integrations.
 - 🌐 **Enterprise Web & CMS:** Architecting high-load portals and multi-language platforms on **Drupal 11**, **PHP**, and **JavaScript** using Single Directory Components (SDC).
 - 🤖 **AI Agents & Media Automation:** Building autonomous **Python** agents, bots, and content-processing pipelines for **Telegram** and **YouTube** APIs.
 - 🎮 **Cross-Platform Mobile Game Dev:** Developing 2D/3D mobile games and shared business/game logic using **Kotlin Multiplatform (KMP)** and **Godot Engine**.
@@ -31,8 +31,10 @@ Multi-disciplinary engineer bridging **Enterprise Project Management (SAP PPM / 
     <tr>
       <td><strong>Enterprise &amp; ERP</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+        <img src="https://img.shields.io/badge/SAP_PPM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP PPM">
         <img src="https://img.shields.io/badge/SAP_PS-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP PS">
+        <img src="https://img.shields.io/badge/IFS_ERP-6C2DC7?style=for-the-badge" alt="IFS ERP">
+        <img src="https://img.shields.io/badge/1C_Enterprise-FFCC00?style=for-the-badge" alt="1C Enterprise">
         <img src="https://img.shields.io/badge/Project_Architecture-2C3E50?style=for-the-badge" alt="Project Architecture">
       </td>
     </tr>
